@@ -39,5 +39,8 @@ Open index.html in the browser .In console write:
 init()
 ```
 It might take a while to render images which has a lot of lines.
+The final output should look something like this:
+![Screenshot 2021-10-10 124528](https://user-images.githubusercontent.com/83541306/136710656-eb38f459-87d6-4d5e-a151-d8c0f89b3262.png)
+
 
 
