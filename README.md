@@ -14,11 +14,26 @@ Clone Repository
 git clone https://github.com/cartesiancanvas/DesmosImageRenderer.git
 ```
 Put the Image that you want to plot in the same directory.
-Open the backend.py file and provide the image name
+Open the backend.py file and provide the image name.
 Open the index.js file and change colour and style of lines.
 ```sh
 image_name="imagename.png" #Provide required Image
 color: 'Provide the hex code of your desirable colour.' , lineStyle: Desmos.Styles.SOLID/DASHED/DOTTED 
 ```
+Run backend
+```sh
+python backend.py
+```
+The output should be like this:
+```sh
+* Serving Flask app "backend" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+```
+
 
 
