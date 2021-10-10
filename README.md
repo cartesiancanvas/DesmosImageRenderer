@@ -13,7 +13,7 @@ Clone Repository
 ```sh
 git clone https://github.com/cartesiancanvas/DesmosImageRenderer.git
 ```
-Put the Image that you want to plot in the same directory.
+Put the Image that you want to plot in the same Directory.
 Open the backend.py file and provide the image name
 ```sh
 image_name="imagename.png" #Provide required Image
