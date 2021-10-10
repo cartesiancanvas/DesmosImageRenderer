@@ -34,6 +34,10 @@ The output should be like this:
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ```
-
+Open index.html in the browser .In console write:
+```sh
+init()
+```
+It might take a while to render images which has a lot of lines.
 
 
