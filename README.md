@@ -14,6 +14,7 @@ Clone Repository
 git clone https://github.com/cartesiancanvas/DesmosImageRenderer.git
 ```
 Put the Image that you want to plot in the same directory.
+
 Open the backend.py file and provide the image name.
 Open the index.js file and change colour and style of lines.
 ```sh
